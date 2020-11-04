@@ -1,0 +1,7 @@
+<html>
+	<head>	
+	</head>
+	<body>
+	 	<h1>SITE DE ENTREGAS</h1>		
+	</body>
+</html>
